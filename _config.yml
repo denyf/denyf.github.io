@@ -16,7 +16,8 @@ timezone: Asia/Shanghai
 
 title: "Deng Yongfa's Coding Journey" # the main title
 
-tagline: "If you wish to learn poetry, the craft lies beyond the poems themselves." # it will display as the sub-title
+# tagline: "If you wish to learn poetry, the craft lies beyond the poems themselves." # it will display as the sub-title
+tagline: "汝果欲学诗，功夫在诗外" # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Join me, Deng Yongfa, on a coding journey through the realms of technology and software development, where each post is an adventure in learning and exploration.

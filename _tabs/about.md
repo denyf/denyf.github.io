@@ -1,8 +1,14 @@
 ---
-# the default layout is 'page'
+title: About
 icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+# 关于我
+
+你好，我是邓永发，一个热爱技术的软件开发者。在这个博客中，我将分享我的编程之旅，包括我学到的新技术、我遇到的挑战以及我如何解决问题的过程。
+
+## 联系我
+
+如果你有任何问题或者想要交流，请随时[联系我](mailto:denyf9591@gmail.com)。
+
